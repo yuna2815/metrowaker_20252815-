@@ -19,7 +19,7 @@ View your app in AI Studio: https://ai.studio/apps/drive/1VlbwSOkgqZtXkJDHE6L9XY
 3. Run the app:
    `npm run dev`
    
-   # 프로젝트 제목: metro waker
+# 프로젝트 제목: metro waker
 
 ## 📌 개요
 매일 반복되는 출퇴근길 지하철에서 "혹시 못 내리면 어떡하지?"라는 불안감 때문에 쪽잠조차 편히 못 자는 사람들을 위해 기획했습니다. GPS 신호가 잡히지 않는 지하 환경에서도 공공데이터 API를 활용해 내 열차를 정확히 추적하고, 목적지 한 정거장 전에 확실하게 깨워주는 웹앱입니다.
@@ -43,4 +43,4 @@ Data: 서울 열린데이터 광장 (실시간 도착정보/위치정보 API)
 Deployment: Vercel (또는 로컬 환경)
 
 ## 🚀 실행 방법
-1. 
+1.  https://ai.studio/apps/drive/1VlbwSOkgqZtXkJDHE6L9XYG3Zei7zQfd 링크 접속
