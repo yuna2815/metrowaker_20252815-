@@ -1,0 +1,5 @@
+{
+  "name": "Subway Waker (지하철 깨우미)",
+  "description": "내가 탄 열차를 추적하여 내릴 역 직전에 깨워주는 알람 서비스입니다.",
+  "requestFramePermissions": []
+}
